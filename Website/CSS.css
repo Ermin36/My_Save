@@ -1,0 +1,28 @@
+.card{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 7px;
+}
+.Card{
+    background: forestgreen;
+}
+.Card .jpg{
+    max-width: 200px;
+    margin: auto;
+}
+.Card .name{
+    max-width: 350px;
+    margin: auto;
+}
+.inform{
+    background:aqua;
+}
+.hobby{
+    background: coral;
+}
+.list{
+    padding-left: 35px;
+}
+.info{
+    background: #237;
+}
